@@ -11,16 +11,16 @@
 
 ### Programming languages of choice:
 
-<img src="https://skills.thijs.gg/icons?i=rust,kotlin,java,typescript,python" alt="Programming languages" height="40"/>
+<img src="https://skillicons.dev/icons?i=rust,kotlin,java,typescript,python" alt="Programming languages" height="40"/>
 
 ### Favorite technologies for web development:
 
-<img src="https://skills.thijs.gg/icons?i=tailwind,svelte,wasm,react,spring,next" alt="Web technologies" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind,svelte,react,vue,spring,next,nuxt" alt="Web technologies" height="40"/>
 
 ### Some other tools I enjoy using:
 
-<img src="https://skills.thijs.gg/icons?i=linux,vim,idea,gradle,git,docker,github" alt="Tooling & other" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,nix,vim,idea,gradle,git,docker,github" alt="Tooling & other" height="40"/>
 
 ## ✉️ Contact
 
-You can contact me via [sebvi66@hotmail.fr](mailto:sebvi66@hotmail.fr) or [sebastien.vial@etu.umontpellier.fr](mailto:sebastien.vial@etu.umontpellier.fr).
+You can contact me via [sebastien@shyrogan.fr](mailto:sebastien@shyrogan.fr) or [sebastien.vial@etu.umontpellier.fr](mailto:sebastien.vial@etu.umontpellier.fr).
