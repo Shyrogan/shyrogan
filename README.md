@@ -1,11 +1,6 @@
 # Hey 👋 I am Sébastien
 
-`🙆‍♂️` Born in 2002, I'm a computer science enthusiast who started coding when I was 14.  
-`🎓` I am currently studying at the [University of Montpellier](https://sciences.edu.umontpellier.fr/), in the "[Génie Logiciel](https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/parcours-gl-genie-logiciel/)" master degree
-
-
-`💧` I used to work on Minecraft-related tools such as the one on the [Mizu](https://github.com/MizuSoftware) repository.  
-`⚙️` I also used to love algorithmic (I even competed on my free time at [SWERC 2022-2023](https://swerc.eu/2022/teams/)).
+Due to [privacy](https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/), [ethical](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8) and [poor quality of development at GitHub](https://github.com/actions/runner/issues/3792#issuecomment-3182746514), I decided to move towards [Codeberg](https://codeberg.org/Shyrogan).
 
 ## 🔨 Technologies
 
